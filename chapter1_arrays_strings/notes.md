@@ -13,6 +13,4 @@
 <ol><b>StringBuffer</b></ol>
 <li>helps avoid inc. big O for copying characters</li>
 <li>simply creates an array of all strings, copying them back to a string only when necessary</li>
-<li></li>
-<li></li>
-<li></li>
+
